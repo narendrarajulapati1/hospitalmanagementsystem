@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\models\\reguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:models\\reguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\controllers\\doctorcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:controllers\\doctorcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:models\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|c:\\users\\narendra\\onedrive\\desktop\\narendra\\sandeep\\asphospitalmgmt\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301C2A9A-0984-4D2C-BA2C-6C373AFEE426}|AspHospitalMgmt.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:30:37.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:29:29.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorController1.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Controllers\\DoctorController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController1.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Controllers\\DoctorController1.cs",
+              "RelativeToolTip": "Controllers\\DoctorController1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:57:03.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAuwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:44:08.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegUser.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\RegUser.cs",
+              "RelativeDocumentMoniker": "Models\\RegUser.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\RegUser.cs",
+              "RelativeToolTip": "Models\\RegUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:04:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:13:44.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:41:03.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T11:45:24.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "Models\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\DataContext.cs",
+              "RelativeToolTip": "Models\\DataContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwCEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:46:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:05:43.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:12:54.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:55:08.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:43:55.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "Views\\Doctor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:58:28.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIgUAAAAAAAAAAArwIwUAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-11T13:05:27.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAWwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:03:18.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T12:31:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:04:35.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Narendra\\OneDrive\\Desktop\\Narendra\\Sandeep\\AspHospitalMgmt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:04:16.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+@model IEnumerable<AspHospitalMgmt.Models.Doctor>
+
+<h2>Doctors</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Experience</th>
+            <th>Licence No</th>
+            <th>Email</th>
+            <th>Department</th>
+            <th>Phone No</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var doctor in Model)
+        {
+            <tr>
+                <td>@doctor.Name</td>
+                <td>@doctor.Exp</td>
+                <td>@doctor.LicenceNo</td>
+                <td>@doctor.Email</td>
+                <td>@doctor.DeptId</td>
+                <td>@doctor.PhoneNo</td>
+                <td>
+                    <a asp-action="Book" asp-route-id="@doctor.Id" class="btn btn-primary">Book</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

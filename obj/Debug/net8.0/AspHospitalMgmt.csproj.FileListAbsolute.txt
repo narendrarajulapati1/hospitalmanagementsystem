@@ -1,0 +1,8 @@
+C:\Users\Narendra\OneDrive\Desktop\Narendra\Sandeep\AspHospitalMgmt\obj\Debug\net8.0\AspHospitalMgmt.csproj.AssemblyReference.cache
+C:\Users\Narendra\OneDrive\Desktop\Narendra\Sandeep\AspHospitalMgmt\obj\Debug\net8.0\AspHospitalMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narendra\OneDrive\Desktop\Narendra\Sandeep\AspHospitalMgmt\obj\Debug\net8.0\AspHospitalMgmt.AssemblyInfoInputs.cache
+C:\Users\Narendra\OneDrive\Desktop\Narendra\Sandeep\AspHospitalMgmt\obj\Debug\net8.0\AspHospitalMgmt.AssemblyInfo.cs
+C:\Users\Narendra\OneDrive\Desktop\Narendra\Sandeep\AspHospitalMgmt\obj\Debug\net8.0\AspHospitalMgmt.csproj.CoreCompileInputs.cache
+C:\Users\Narendra\OneDrive\Desktop\Narendra\Sandeep\AspHospitalMgmt\obj\Debug\net8.0\AspHospitalMgmt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Narendra\OneDrive\Desktop\Narendra\Sandeep\AspHospitalMgmt\obj\Debug\net8.0\AspHospitalMgmt.RazorAssemblyInfo.cache
+C:\Users\Narendra\OneDrive\Desktop\Narendra\Sandeep\AspHospitalMgmt\obj\Debug\net8.0\AspHospitalMgmt.RazorAssemblyInfo.cs
